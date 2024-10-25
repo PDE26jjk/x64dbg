@@ -1,7 +1,8 @@
 [submodule "src/dbg/btparser"]
 	path = src/dbg/btparser
-	url = ../btparser
+	url = https://github.com/x64dbg/btparser.git
 [submodule "deps"]
 	path = deps
-	url = ../deps
-	shallow = true
+	url = https://github.com/x64dbg/deps.git
+
+	
